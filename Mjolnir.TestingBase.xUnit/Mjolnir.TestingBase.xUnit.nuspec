@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mjolnir.TestingBase.xUnit</id>
+    <version>1.0.0.0</version>
+    <title>Mjolnir.TestingBase.xUnit</title>
+    <authors>Osman GUMUS</authors>
+    <owners>Osman GUMUS</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>First Release</description>
+    <releaseNotes>Helper for WPF xUnit testing</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
